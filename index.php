@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo 'it works';
+        echo 'this is now alpha';
         ?>
     </body>
 </html>
